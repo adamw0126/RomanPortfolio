@@ -6,7 +6,7 @@ import { useEffect, React } from "react";
 import "./Portfolio.sass";
 const Portfolio = () => {
   useEffect(() => {
-    document.title = "Portfolio | Talent Jong";
+    document.title = "Portfolio | Roman";
     window.scrollTo(0, 0);
   })
   return (

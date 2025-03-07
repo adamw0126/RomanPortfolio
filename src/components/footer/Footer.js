@@ -10,7 +10,7 @@ const Footer = () => {
         href="https://github.com/catherineisonline/"
         target="_blank"
         rel="noopener noreferrer">
-        Designed & Built by Talent Jong &copy;2023 - {currentYear}
+        Designed & Built by Roman &copy;2017 - {currentYear}
       </a>
     </article>
   );
